@@ -1,0 +1,13 @@
+name,ring,quadrant,isNew,description
+Kafka,Adopt,Systems and Data Stores,FALSE,A streaming platform
+Git,Adopt,Tools,FALSE,A version control system
+Kubernetes,Adopt,Systems and Data Stores,FALSE,Container orchestration
+Java,Adopt,Languages and Frameworks,FALSE,A programming language
+Kafka Streams,Adopt,Languages and Frameworks,FALSE,A library for building applications that read from and write to Kafka topics
+Streaming at the Edge,Trial,Concepts,TRUE,???
+Redis,Trial,Systems and Data Stores,TRUE,"An in-memory data structure store with, among others, streaming capabilities"
+Snowflake,Trial,Systems and Data Stores,TRUE,"A cloud-based data warehouse, offering data warehouse as a service"
+Conduktor,Adopt,Tools,FALSE,
+Lens,Adopt,Tools,FALSE,
+K9s,Adopt,Tools,FALSE,
+Spring,Adopt,Languages and Frameworks,FALSE,
