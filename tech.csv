@@ -12,4 +12,5 @@ Lens,Adopt,Tools,FALSE,
 K9s,Adopt,Tools,FALSE,
 Spring,Adopt,Languages and Frameworks,FALSE,
 Scala,Adopt,Languages and Frameworks,TRUE,
-DynamoDB,Systems and Data Stores,TRUE,"A NoSQL DB offering by AWS"
+DynamoDB,Adopt,Systems and Data Stores,TRUE,"A NoSQL DB offering by AWS"
+Azure Data Explorer,Adopt,Systems and Data Stores,TRUE,"Fully-managed big data analytics cloud platform and data-exploration service"
