@@ -15,3 +15,4 @@ Scala,Adopt,Languages and Frameworks,TRUE,
 DynamoDB,Adopt,Systems and Data Stores,TRUE,"A NoSQL DB offering by AWS"
 Azure Data Explorer,Adopt,Systems and Data Stores,TRUE,"Fully-managed big data analytics cloud platform and data-exploration service"
 Apache Pinot,Trial,Systems and Data Stores,TRUE,"Realtime distributed OLAP datastore, designed to answer OLAP queries with low latency"
+Trino,Trial,Systems and Data Stores,TRUE,"Fast distributed SQL query engine for big data analytics"
