@@ -1,17 +1,17 @@
 name,ring,quadrant,isNew,description
-Kafka,Adopt,Systems and Data Stores,FALSE,A streaming platform
-Git,Adopt,Tools,FALSE,A version control system
-Kubernetes,Adopt,Systems and Data Stores,FALSE,Container orchestration
-Java,Adopt,Languages and Frameworks,FALSE,A programming language
-Kafka Streams,Adopt,Languages and Frameworks,FALSE,A library for building applications that read from and write to Kafka topics
+Kafka,Adopt,Systems and Data Stores,FALSE,"A streaming platform"
+Git,Adopt,Tools,FALSE,"A version control system"
+Kubernetes,Adopt,Systems and Data Stores,FALSE,"Container orchestration"
+Java,Adopt,Languages and Frameworks,FALSE,"A programming language"
+Kafka Streams,Adopt,Languages and Frameworks,FALSE,"A library for building applications that read from and write to Kafka topics"
 Streaming at the Edge,Trial,Concepts,TRUE,???
 Redis,Trial,Systems and Data Stores,TRUE,"An in-memory data structure store with, among others, streaming capabilities"
 Snowflake,Trial,Systems and Data Stores,TRUE,"A cloud-based data warehouse, offering data warehouse as a service"
-Conduktor,Adopt,Tools,FALSE,
-Lens,Adopt,Tools,FALSE,
-K9s,Adopt,Tools,FALSE,
-Spring,Adopt,Languages and Frameworks,FALSE,
-Scala,Adopt,Languages and Frameworks,TRUE,
+Conduktor,Adopt,Tools,FALSE,"GUI application that simplifies consuming from Kafka clusters"
+Lens,Adopt,Tools,FALSE,"An IDE for K8s"
+K9s,Adopt,Tools,FALSE,"A terminal-based UI to interact with your Kubernetes clusters"
+Spring,Adopt,Languages and Frameworks,FALSE,"An application framework and inversion of control container for the Java platform"
+Scala,Adopt,Languages and Frameworks,TRUE,"A strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming."
 DynamoDB,Adopt,Systems and Data Stores,TRUE,"A NoSQL DB offering by AWS"
 Azure Data Explorer,Adopt,Systems and Data Stores,TRUE,"Fully-managed big data analytics cloud platform and data-exploration service"
 Apache Pinot,Trial,Systems and Data Stores,TRUE,"Realtime distributed OLAP datastore, designed to answer OLAP queries with low latency"
