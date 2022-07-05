@@ -21,3 +21,4 @@ Grafana,Adopt,Systems and Data Stores,FALSE,"Grafana is a multi-platform open so
 Prometheus,Adopt,Systems and Data Stores,FALSE,"An open-source monitoring system with a dimensional data model, flexible query language, efficient time series database and modern alerting approach."
 Presto,Adopt,Systems and Data Stores,FALSE,"Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes"
 Data Mesh,Trial,Concepts,TRUE,"An approach to creating a decentralized Data Architecture."
+Python,Adopt,Languages and Frameworks,FALSE,"A programming language"
