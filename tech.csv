@@ -22,4 +22,3 @@ Prometheus,Adopt,Systems and Data Stores,FALSE,"An open-source monitoring system
 Presto,Adopt,Systems and Data Stores,FALSE,"Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes"
 Data Mesh,Trial,Concepts,TRUE,"An approach to creating a decentralized Data Architecture."
 Python,Adopt,Languages and Frameworks,FALSE,"A programming language"
-Random,Discontinue,Languages and Frameworks,FALSE,"Random"
