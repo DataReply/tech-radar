@@ -36,3 +36,4 @@ Airbyte,Assess,Airbyte is an open-source data integration engine that helps you 
 StreamSets,Assess,StreamSets offers a platform dedicated to building smart data pipelines to power DataOps across hybrid and multi-cloud architectures.
 Meltano,Assess,Provider of open-source extract, load and transform pipelines for DataOps. It is a directory with text-based files and features such as tracking of incremental replication rate, data loading into data warehouses, UI for management and monitoring, as well as data extraction from multiple data sources.
 Plotly,Assess,Plotly is a data science and AI company focused on taking data science out of the lab and into the business. Plotly makes it easy to create, deploy, and share interactive web apps, graphs, and visualizations in any programming language
+Apache Spark,Adopt,Languages and Frameworks,FALSE,Apache Spark is an open-source unified analytics engine for large-scale data processing.
